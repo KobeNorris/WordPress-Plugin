@@ -18,6 +18,11 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 */
 
+require_once "includes/util.php";
 
+// $alert = plugins_url();
+// $alert = "Hello World!";
 
+// echo "<script type='text/javascript'>alert('".$alert."');</script>";
+// register_activation_hook( __FILE__, 'boj_install');
 ?>
